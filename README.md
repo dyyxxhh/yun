@@ -30,13 +30,10 @@
    cd yun
    ```
 
-3. **创建新分支**
+3. **切换到主分支并更新**
    ```bash
-   git checkout -b fix/规则修复
-   # 或者
-   git checkout -b feat/新功能
-   # 或者
-   git checkout -b docs/文档改进
+   git checkout main
+   git pull origin main
    ```
 
 4. **进行修改**
@@ -50,16 +47,16 @@
    git commit -m "描述你的修改内容"
    ```
 
-6. **推送到你的仓库**
+6. **推送到你的仓库主分支**
    ```bash
-   git push origin 你的分支名
+   git push origin main
    ```
 
 7. **创建Pull Request**
    - 访问原始仓库：https://github.com/dyyxxhh/yun
    - 点击"Pull requests" → "New pull request"
    - 选择"compare across forks"
-   - 选择你的分支
+   - 选择你的main分支
    - 填写PR标题和描述，说明你的修改内容和原因
    - 点击"Create pull request"
 
