@@ -134,3 +134,6 @@
 4. **可读性**：使用清晰的markdown格式，方便阅读
 
 感谢你的贡献！🎮
+
+## 版权所有 yueyang@dyyapp.com
+## 仓库地址 https://github.com/dyyxxhh/yun
