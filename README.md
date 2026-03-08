@@ -4,6 +4,8 @@
 
 如果你想要使用或参考此项目的内容，请先联系项目所有者获取明确授权。
 
+## 版权所有 yueyang@dyyapp.com
+## 仓库地址 https://github.com/dyyxxhh/yun
 ---
 
 # yun
@@ -134,6 +136,3 @@
 4. **可读性**：使用清晰的markdown格式，方便阅读
 
 感谢你的贡献！🎮
-
-## 版权所有 yueyang@dyyapp.com
-## 仓库地址 https://github.com/dyyxxhh/yun
